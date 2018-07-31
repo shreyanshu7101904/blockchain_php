@@ -1,0 +1,62 @@
+.main{
+    margin: 50px 50px 50px 50px;
+    font-family: cursive;
+    background: url(images.jpg);
+    background-size: cover;
+}
+
+.parent
+{
+
+height:50%;
+width:95%;
+margin:0px auto;
+}
+
+.left
+{
+float:left;
+width:35%;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+  height:80%;
+ }
+.center
+{
+
+float:left;
+width:30%;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+  height:80%;
+
+}
+.right
+{
+float:left;
+width:35%;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+height:80%;
+  }
+.payment-container
+{
+text-align:center;
+width:40%;
+height:40%;
+margin: auto;
+overflow:hidden;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+  
+}
+.payment-container td{
+padding: 0 15px 0 15px;
+}
+
+
+

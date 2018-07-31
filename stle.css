@@ -1,0 +1,107 @@
+.main{
+    margin: 50px 50px 50px 50px;
+    font-family: cursive;
+    background: url(images.jpg);
+    background-size: cover;
+}
+
+.parent
+{
+height:60%;
+width:95%;
+margin:0px auto;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+}
+
+.left
+{
+float:left;
+width:35%;
+height:80%;
+overflow:hidden;
+ }
+.center
+{
+
+float:left;
+width:30%;
+box-sizing:content-box;
+ box-shadow: 0 15px 25px rgba(0,0,0,.8);
+  border-radius: 50px;
+
+}
+.right
+{
+float:left;
+width:35%;
+height:80%;
+overflow:hidden;
+}
+
+.right td{
+padding: 0 15px 0 15px;
+}
+
+/*.box{
+    position:absolute;
+    top:50%;
+    left:50%;
+    width:400px;
+    padding:50px;
+    transform: translate(-50%,-50%);
+    background:rgba(0,0,0,0.5);
+    box-sizing:content-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.8);
+    border-radius: 50px;
+
+}
+.box h1
+{margin:0 0 30px;
+    text-align: center;
+
+    color:white;
+}
+.box .inputbox{
+    position: relative;
+}
+.box .inputbox input
+{
+    width:100%;
+    padding:10px 0;
+    font-family: "cursive";
+    font-size: 16px;
+    margin-bottom:15px;
+    outline:none;
+    border:none;
+    border-bottom:1px solid #fff;
+
+    background:transparent;
+}
+.box .inputbox lable{
+    position: absolute;
+    top:0 ;
+    left:0;
+    color:#fff;
+    transition: 2%;
+}
+.box .inputbox input:focus ~ lable{
+    top:-10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+ color:rgb(27, 180, 40);
+}
+.box .inputbox input:valid ~ lable{
+    top:-10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:18px;
+ color:rgb(27, 180, 40);
+}
+.box input[type="submit"]{
+    color:white;
+    background:transparent;
+    border-radius:5px;
+    background:rgb(62, 62, 133);
+}
+*/
